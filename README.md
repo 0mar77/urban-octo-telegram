@@ -10,7 +10,7 @@
 
 ## Usage
 
-![alt text](Develop/assets/images/screenshot.png)
+![alt text](assets/images/screenshot.png)
 
 
 
