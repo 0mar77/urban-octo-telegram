@@ -202,7 +202,7 @@ footer {
     text-align: center;
 }
 
-/*changed selector from class (.footer) to tag (footer)*/
-footer h2 {
+/*.footet h2 {
     font-size: 20px;
-}
+    }*/
+
