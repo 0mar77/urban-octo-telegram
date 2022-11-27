@@ -10,8 +10,9 @@
 
 ## Usage
 
-![alt text](assets/images/screenshot.png)
+Link to deployed website [https://0mar77.github.io/urban-octo-telegram/] 
 
+![alt text](assets/images/screenshot.png)
 
 
 ## Credits
